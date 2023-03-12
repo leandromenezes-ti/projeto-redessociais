@@ -26,8 +26,7 @@ html, body {
     background-image: url(imagens/frame-iphone.png);
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: contain ;
-    border: 1px solid black;
+    background-size: contain;
     
 }
 .iphone iframe{
@@ -52,7 +51,7 @@ img:hover {
     height: 50px;
     border-radius: 50%;    
     transform: scale(1.1);
-    transition: 1s;
+    transition: 1s  ;
     border: 2px solid white;
 }
 
